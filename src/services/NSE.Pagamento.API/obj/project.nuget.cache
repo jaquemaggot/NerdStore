@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUEpDngo42U6DY5XAwfpU8nWGyVWACs9uP+VsHQtRDwzLA69i7IIf3WoZYgl4DlWsT9pWfEic0TFUAYp/expbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaqueline Santos\\Documents\\Jaqueline\\Estudos\\NerdStore\\NerdStoreEnterprise\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaqueline Santos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
